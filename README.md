@@ -7,3 +7,5 @@ The main programming language of RB-Falcon is Micropython. RB-Falcon can be prog
 Reference : https://github.com/gamblor21/Gamblor21_CircuitPython_AHRS/tree/master
 
 Mahony Filter : https://hal.science/hal-00488376/document
+
+Madgwick Filter : https://courses.cs.washington.edu/courses/cse466/14au/labs/l4/madgwick_internal_report.pdf
