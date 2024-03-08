@@ -1,6 +1,6 @@
 RB-Falcon, capable of image recognition, is an all-in-one quadcopter flight controller using a STM32F765 MCU. 
 
-Built-in sensors include IMU(LSM9DS1), Pressure&Temp(BMP280), and Image(OV7725). Also included chips on board are a NRF24L01 for remote control, a STC4054 for charging a Li-Ion battery, and four 30V N-channel MOSFETs for motors.
+Built-in sensors include IMU(LSM9DS1), Pressure&Temp(BMP280), and Image(OV7725). Also included chips on board are a NRF24L01 for remote control, a STC4054 for charging a Li-Ion battery, four 30V N-channel MOSFETs for motors, and a RGB LED for the tutorial programming.
 
 The programming language of RB-Falcon is MicroPython. RB-Falcon can be programmed using Thonny or OPENMV IDEs. MicroPython scripts in this repository are for demonstrating AHRS algorithms of Mahony and Madgwick.
 
