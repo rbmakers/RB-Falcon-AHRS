@@ -5,3 +5,4 @@ Built-in sensors include IMU(LSM9DS1), Pressure&Temp(BMP280), and Image(OV7725).
 The main programming language of RB-Falcon is Micropython. RB-Falcon can be programmed using Thonny or OPENMV IDEs. Micropython scripts in this repository are for demonstrating AHRS algorithms like Mahony and Madgwick.
 
 Reference : https://github.com/gamblor21/Gamblor21_CircuitPython_AHRS/tree/master
+Mahony Filter : https://hal.science/hal-00488376/document
