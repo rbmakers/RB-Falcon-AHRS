@@ -9,3 +9,5 @@ Reference : https://github.com/gamblor21/Gamblor21_CircuitPython_AHRS/tree/maste
 Mahony Filter : https://hal.science/hal-00488376/document
 
 Madgwick Filter : https://courses.cs.washington.edu/courses/cse466/14au/labs/l4/madgwick_internal_report.pdf
+
+
