@@ -1,11 +1,11 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/rbmakers/RB-Falcon-AHRS/assets/148856699/10714883-a319-4471-84ef-3a1197fba9e7">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/rbmakers/RB-Falcon-AHRS/assets/148856699/10714883-a319-4471-84ef-3a1197fba9e7">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/rbmakers/RB-Falcon-AHRS/assets/148856699/10714883-a319-4471-84ef-3a1197fba9e7">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/rbmakers/RB-Falcon-AHRS/assets/148856699/b1bcbce7-7023-4aa2-89dd-63e37c55d587">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/rbmakers/RB-Falcon-AHRS/assets/148856699/b1bcbce7-7023-4aa2-89dd-63e37c55d587">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/rbmakers/RB-Falcon-AHRS/assets/148856699/b1bcbce7-7023-4aa2-89dd-63e37c55d587">
 </picture>
 
-
-
+                                                         
+                                                          
 RB-Falcon, capable of image recognition, is an all-in-one quadcopter flight controller using a STM32F765 MCU. 
 
 Built-in sensors include IMU(LSM9DS1), Pressure&Temp(BMP280), and Image(OV7725). Also included chips on board are a NRF24L01 for remote control, a STC4054 for charging a Li-Ion battery, four 30V N-channel MOSFETs for motors, a SD card holder for storage up to 32GB, and a RGB LED for the tutorial programming.
